@@ -1,0 +1,26 @@
+p{
+color: brown;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h1{
+color: blue;
+font-family: Arial;
+text-align: center;
+}
+#intro {
+color: blue;
+font-size: 20px;
+}
+#Imagen {
+    width: 150px;
+    border-radius: 10px;
+}
+.tipos {
+    color: red;
+    font-weight: bold;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
